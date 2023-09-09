@@ -1,6 +1,8 @@
 package com.epam.mjc.io;
 
+import java.io.FileReader;
 import java.util.Objects;
+import java.io.*;
 
 public class Profile {
 
